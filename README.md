@@ -9,7 +9,7 @@ Download the dataset from the link below:
 
 Sample stereo images:
 
-<img src="images/Stereoimages.png" alt="input images" class="inline"/>
+<img src="images/Stereoimages.png" alt="input images" class="inline" width="450" height="150"/>
 
 Ground truth:
 
