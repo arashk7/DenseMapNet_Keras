@@ -1,7 +1,7 @@
 # DenseMapNet_Keras
 Implementation of DenseMapNet in Keras
 
-The method is suggested Rowel Atienza. Here is DenseMapNet publication: <a href="https://arxiv.org/abs/1805.07499">https://arxiv.org/abs/1805.07499</a>
+The method is suggested by Rowel Atienza. Here is DenseMapNet publication: <a href="https://arxiv.org/abs/1805.07499">https://arxiv.org/abs/1805.07499</a>
 
 Download the dataset from the link below:
 
