@@ -17,4 +17,4 @@ Ground truth:
 
 Here is the prediction after 800 epochs
 
-<img src="images/DMN_predict.png" alt="predicted" class="inline" width="320" height="238" />
+<img src="images/DMN_predict.png" alt="predicted result" class="inline" width="320" height="238" />
