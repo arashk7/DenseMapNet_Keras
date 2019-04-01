@@ -58,6 +58,7 @@ min = np.min(np.min(XR))
 max = np.max(np.max(XR))
 XR = (XR - min) / max
 
+# Depth data directory
 path = "../../Dataset/DepthMap_dataset-master/Depth_map"
 y = load_output_dataset(path)
 Y = np.zeros((y.shape[0], y.shape[1], y.shape[2], 1))
