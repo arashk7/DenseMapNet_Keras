@@ -155,7 +155,7 @@ class DenseMapNet:
 
     # Train the model
     def train(self, x, y, n_epoch=20, batch_size=1):
-        self.model.fit(x, y, epochs=n_epoch, batch_size=batch_size, verbose=1)
+        self.model.fit(x, y, validation_split=0.2, epochs=n_epoch, batch_size=batch_size, verbose=1)
 
     # Check the error rate on its input test data (x_test & y_test) and print the result in consule
     def get_error_rate(self, x_ts, y_ts):
